@@ -1,7 +1,6 @@
 
-Certainly! Below is a README description for your Banquet Booking and Recommendation application that you can add to your GitHub repository.
 **Book a Banquet**
-Overview
+
 Welcome to Book a Banquet, a comprehensive mobile application designed to revolutionize the banquet booking industry. Our platform connects customers with banquet halls while providing robust tools for banquet owners and administrators to manage their services efficiently.
 
 Features
